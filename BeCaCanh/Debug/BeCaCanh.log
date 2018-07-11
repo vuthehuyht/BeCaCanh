@@ -1,0 +1,12 @@
+﻿  CommunityTank.cpp
+e:\c\oop\becacanh\becacanh\communitytank.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  Fish.cpp
+  FishTank.cpp
+  Main.cpp
+e:\c\oop\becacanh\becacanh\main.cpp(7): warning C4305: 'argument': truncation from 'double' to 'float'
+  SpeciesTank.cpp
+e:\c\oop\becacanh\becacanh\speciestank.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  SpecimenTank.cpp
+e:\c\oop\becacanh\becacanh\specimentank.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  BeCaCanh.vcxproj -> E:\C\OOP\BeCaCanh\Debug\BeCaCanh.exe
